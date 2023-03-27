@@ -130,7 +130,7 @@
   link:
     url: https://doi.org/10.1016/j.jmb.2016.06.002
     display: "J. Mol. Biol. (2016) 428(14) 2847"
-  highlight: 1
+  highlight: 0
   news2: Preprint [arXiv](https://arxiv.org/abs/1604.08278)
 
 - title: "How co-translational folding of multi-domain protein is affected by elongation schedule: Molecular simulations"

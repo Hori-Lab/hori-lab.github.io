@@ -55,7 +55,7 @@ permalink: /publications/
 ## Patents
 -->
 
-## Full List of publications
+## Full list of publications
 
 <ol>
 {% for publi in site.data.publist %}
