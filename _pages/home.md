@@ -41,7 +41,7 @@ We are a Computational Biophysics group at the [School of Pharmacy](https://www.
 </div>
 
 
-Our research efforts focus on the molecular structure and dynamics of biological macromolecules, with a particular emphasis on RNA. We seek to understand how these molecules, which inherently obey the laws of physics and chemistry, assemble and interact to produce intriguing biological phenomena. We also aim to use our expertise to develop better therapeutics.  To achieve this, we develop and apply theoretical and computational biophysical approaches in collaboration with experimentalists.
+Our research efforts focus on the molecular structure and dynamics of biological macromolecules, with a particular emphasis on RNA. We seek to understand how these molecules, which inherently obey the laws of physics and chemistry, assemble and interact each other to produce intriguing biological phenomena. We also aim to use our expertise to develop better RNA therapeutics. To achieve this, we develop and apply theoretical and computational biophysical approaches in collaboration with experimentalists.
 <br>
 <br>
 
