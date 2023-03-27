@@ -1,0 +1,53 @@
+- name: Naoto Hori
+  photo: NaotoHori.jpg
+  info: Assistant Professor
+  number_email: 1
+  email: naoto.hori @ nottingham.ac.uk
+  number_scholar: 1
+  scholar_link: https://scholar.google.com/citations?user=Je_SISQAAAAJ
+  number_educ: 5
+  education1: BSc in Chemistry, Kobe University 2006
+  education2: MSc in Chemistry, Kobe University 2008
+  education3: PhD in Biophysics, Kyoto University 2013
+  education4: Postdoc at Univ. of Maryland (2014-15) and Univ. of Texas Austin (2016-19)
+  education5: <a href="https://www.nottingham.ac.uk/research/researchwithus/fellowships/nottingham/index.aspx" target="_blank">Nottingham Research Fellow</a> 2020-23
+
+- name: James A. Robins
+  photo: JamesRobins.jpg
+  info: PhD student (Feb 2022 -)
+  number_email: 1
+  email: james.robins @ nottingham.ac.uk
+  number_scholar: 0
+  number_educ: 2
+  education1: BSc in Biomedical Science, Sheffield Hallam University 2021 
+  education2: Research Assistant, University of Sheffield, Oncology and Metabolism 2019-20
+
+- name: Huong T. Vu
+  number_scholar: 1
+  scholar_link: https://scholar.google.com/citations?hl=en&user=k4wKV4UAAAAJ
+  photo: HuongVu.jpg
+  info: Research Associate
+  number_email: 1
+  email: huong.tvu @ nottingham.ac.uk
+  number_educ: 4
+  education1: BSc and MSc in Physics, Hanoi Natl. Univ. of Education 2011
+  education2: PhD in Biophysics, Univ. of Maryland 2017
+  education3: Postdoc at Univ. of Texas at Austin 2018
+  education4: EMBO Postdoctoral Research Fellow at Univ. of Warwick 2019-22
+
+- name: Max Cutler
+  number_scholar: 0
+  photo: MaxCutler.png
+  info: PhD student (Feb 2023 -)
+  number_email: 1
+  email: maxwell.cutler @ nottingham.ac.uk
+  number_educ: 2
+  education1: BSc in Chemistry, Cardiff University 2020
+  education2: MSc in Advanced Chemistry, Cardiff University 2022
+
+#- name: "This could be you!"
+#  number_scholar: 0
+#  photo: rock.jpg
+#  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+#  number_email: 0
+#  number_educ: 0

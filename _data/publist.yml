@@ -1,0 +1,184 @@
+- title: "Watching ion-driven folding kinetics of a ribozyme one molecule at a time"
+  authors: N Hori, D Thirumalai
+  link:
+    url: https://doi.org/10.1101/2023.02.06.527349
+    display: "bioRxiv (2023) 2023.02.06.527349"
+  highlight: 0
+
+- title: "Odd-even disparity in the population of slipped hairpins in RNA repeat sequences with implications for phase separation"
+  authors: H Maity, HT Nguyen, N Hori, D Thirumalai
+  link:
+    url: https://doi.org/10.1101/2023.01.09.523227
+    display: "bioRxiv (2023) 2023.01.09.523227"
+  highlight: 0
+
+- title: "Condensates in RNA Repeat Sequences are Heterogeneously Organized and Exhibit Reptation Dynamics"
+  image: 21LLPS.png
+  description: "we simulated phase separation of repeat RNA sequences. This highlight the mechanism of liquid-liquid phase separation"
+  authors: HT Nguyen, N Hori, D Thirumalai
+  link:
+    url: https://doi.org/10.1038/s41557-022-00934-z
+    display: "Nat. Chem. (2022) 14, 775–785"
+  highlight: 1
+  news2: Preprint [bioRxiv:2021.02.20.432119](https://doi.org/10.1101/2021.02.20.432119)
+
+- title: "Shape changes and cooperativity in the folding of the central domain of the 16S ribosomal RNA"
+  image: 21Ribosome16SCD.png
+  description: "From simulations of ribosomal RNA folding, we revealed the coupling of folding and Mg<sup>2+</sup> associations, and how the ions interact with RNA segments in a coordinated manner."
+  authors: N Hori, NA Denesyuk, D Thirumalai
+  link:
+    url: https://doi.org/10.1073/pnas.2020837118
+    display: "Proc. Natl. Acad. Sci. U.S.A. (2021) 118 e2020837118"
+  highlight: 1
+  news2: Preprint [bioRxiv:2020.04.08.032474](https://doi.org/10.1101/2020.04.08.032474)
+
+- title: "Theory and simulations for RNA folding in mixtures of monovalent and divalent cations"
+  image: 19Nguyen.png
+  description: "Based on the theory of polyatomic liquids, we invented a new simulation model for RNA enables us to simulate large RNA folding with interactions to Mg<sup>2+</sup> and Ca<sup>2+</sup> accurately."
+  authors: HT Nguyen, N Hori, D Thirumalai
+  link:
+    url: https://doi.org/10.1073/pnas.1911632116
+    display: "Proc. Natl. Acad. Sci. U.S.A. (2019) 116(42) 21022-21030"
+  highlight: 1
+  news2: Preprint [bioRxiv:732917](https://doi.org/10.1101/732917)
+
+- title: "Ion Condensation onto Ribozyme is Site-Specific and Fold-Dependent"
+  image: 19BJ.png
+  description: "This study demonstrated that, unlike what previously suggested, ion condensation of divalent cations is highly specific and depends on the architecture of RNAs, even at very low ionic concentrations. "
+  authors: N Hori, NA Denesyuk, D Thirumalai
+  link:
+    url: https://doi.org/10.1016/j.bpj.2019.04.037
+    display: "Biophys. J. (2019) 116(12) 2400"
+  highlight: 1
+  news2: Featured in [New and Notable](https://doi.org/10.1016/j.bpj.2019.04.038)
+
+- title: "Molecular Simulations of Ion Effects on the Thermodynamics of RNA Folding"
+  description: "From molecular simulations of RNA with ions, we investigated how RNA stability depends on ion binding, providing implications to single molecule pulling experiments."
+  authors: NA Denesyuk, N Hori, D Thirumalai
+  link:
+    url: https://doi.org/10.1021/acs.jpcb.8b08142
+    display: "J. Phys. Chem. B (2018) 122(50) 11860"
+  highlight: 0
+  news2: ""
+
+- title: "Frictional Effects on RNA Folding: Speed Limit and Kramers Turnover"
+  image: 18Friction.png
+  description: "We showed that there is an optimal solvent viscosity for RNA folding kinetics, and that Kramers' theory holds in RNA folding."
+  authors: N Hori, NA Denesyuk, D Thirumalai
+  link:
+    url: https://doi.org/10.1021/acs.jpcb.8b07129
+    display: "J. Phys. Chem. B (2018) 122(49) 11279"
+  highlight: 1
+  news2: Preprint [arXiv](https://arxiv.org/abs/1807.09393)
+#<iframe width="560" height="315" src="https://www.youtube.com/embed/05b-goEPFdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- title: "Sequence-dependent Three Interaction Site (TIS) Model for Single and Double-stranded DNA"
+  authors: D Chakraborty, N Hori, D Thirumalai
+  description: ""
+  link:
+    url: https://doi.org/10.1021/acs.jctc.8b00091
+    display: "J. Chem. Theory Comput. (2018) 14(7) 3763"
+  highlight: 0
+  news2: Preprint [bioRxiv](https://doi.org/10.1101/256487)
+
+- title: "Monovalent ions modulate the flux through multiple folding pathways of an RNA pseudoknot"
+  image: vpk_pathways.jpg
+  description: "Together with experimentalists (Ansari's group), we revealed the folding pathway of a viral RNA pseudoknot can be modulated by K<sup>+</sup> ions."
+  authors: J Roca, N Hori, S Baral, Y Velmurugu, R Narayanan, P Narayanan, D Thirumalai, A Ansari
+  link:
+    url: https://doi.org/10.1073/pnas.1717582115
+    display: "Proc. Natl. Acad. Sci. U.S.A. (2018) 115(31) E7313"
+  highlight: 1
+  news2: ""
+
+- title: "Protein Collapse is Encoded in the Folded State Architecture"
+  image: .png
+  description: ""
+  authors: N Hori, NA Denesyuk, D Thirumalai
+  authors: HS Samanta, PI Zhuravlev, M Hinczewski, N Hori, S Chakrabarti, D Thirumalai D
+  link:
+    url: https://doi.org/10.1039/C7SM00074J
+    display: "Soft Matter (2017) 13(19) 3622"
+  highlight: 0
+  news2: Preprint [arXiv](https://arxiv.org/abs/1608.06971)
+
+- title: "Recognize Online Handwritten Bangla Characters Using Hausdorff Distance-Based Feature"
+  description: ""
+  authors: N Hori, NA Denesyuk, D Thirumalai
+  authors: S Sen, R Sarkar, K Roy, N Hori
+  link:
+    url: https://doi.org/10.1007/978-981-10-3153-3_54
+    display: "Proceedings of the 5th International Conference on Frontiers in Intelligent Computing (2017) 515 541-549 Springer"
+  highlight: 0
+  news2: ""
+
+- title: "Handwritten Devanagari numerals recognition using grid based Hausdorff distance"
+  image: .png
+  description: ""
+  authors: N Hori, NA Denesyuk, D Thirumalai
+  authors: S Bhowmik, S Sen, N Hori, R Sarkar, M Nasipuri
+  link:
+    url: https://www.crcpress.com/Computer-Communication-and-Electrical-Technology-Proceedings-of-the-International/Guha-Chakraborty-Dutta/p/book/9781138031579#googlePreviewContainer
+    display: "Computer, Communication and Electrical Technology (2017) 15-18 CRC Press"
+  highlight: 0
+  news2: ""
+
+- title: "Salt Effects on the Thermodynamics of a Frameshifting RNA Pseudoknot under Tension"
+  image: .
+  description: "We fully characterised the phase diagram of RNA pseudoknot structures depending on monovalent salts and mechanical force using coarse-grained molecular simulations. "
+  authors: N Hori, NA Denesyuk, D Thirumalai
+  link:
+    url: https://doi.org/10.1016/j.jmb.2016.06.002
+    display: "J. Mol. Biol. (2016) 428(14) 2847"
+  highlight: 1
+  news2: Preprint [arXiv](https://arxiv.org/abs/1604.08278)
+
+- title: "How co-translational folding of multi-domain protein is affected by elongation schedule: Molecular simulations"
+  image: .png
+  description: ""
+  authors: T Tanaka, N Hori, S Takada
+  link:
+    url: https://doi.org/10.1371/journal.pcbi.1004356
+    display: "PLOS Comput. Biol. (2015) 11(7) e1004356"
+  highlight: 0
+  news2: ""
+
+- title: "Coarse-grained structure-based model for RNA-protein complexes developed by fluctuation matching"
+  image: .png
+  description: ""
+  authors: N Hori, S Takada
+  link:
+    url: https://doi.org/10.1021/ct300361j
+    display: "J. Chem. Theory Comput. (2012) 8(9) 3384"
+  highlight: 0
+  news2: ""
+
+- title: "CafeMol: A coarse-grained biomolecular simulator for simulating proteins at work"
+  image: .png
+  description: ""
+  authors: H Kenzaki, N Koga, N Hori, R Kanada, W Li, K Okazaki, XQ Yao, S Takada
+  link:
+    url: https://doi.org/10.1021/ct2001045
+    display: "J. Chem. Theory Comput. (2011) 7(6) 1979"
+  highlight: 0
+  news2: ""
+
+- title: "Multiscale methods for protein folding simulations"
+  image: .png
+  description: ""
+  authors: W Li, H Yoshii, N Hori, T Kameda, S Takada
+  link:
+    url: https://doi.org/10.1016/j.ymeth.2010.04.014
+    display: "Methods (2010) 52: 106"
+  highlight: 0
+  news2: ""
+
+- title: "Folding energy landscape and network dynamics of small globular proteins"
+  image: .png
+  description: ""
+  authors: N Hori, G Chikenji, RS Berry, S Takada
+  link:
+    url: https://doi.org/10.1073/pnas.0811560106
+    display: "Proc. Natl. Acad. Sci. U.S.A. (2009) 106(1) 73"
+  highlight: 0
+  news2: ""
