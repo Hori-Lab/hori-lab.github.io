@@ -42,10 +42,11 @@ We are a Computational Biophysics group at the [School of Pharmacy](https://www.
 
 
 Our research efforts focus on the molecular structure and dynamics of biological macromolecules, with a particular emphasis on RNA. We seek to understand how these molecules, which inherently obey the laws of physics and chemistry, assemble and interact to produce intriguing biological phenomena. We also aim to use our expertise to develop better therapeutics.  To achieve this, we develop and apply theoretical and computational biophysical approaches in collaboration with experimentalists.
+<br>
+<br>
 
 
-
-We are grateful for support from [Nottingham Research Fellowship](https://www.nottingham.ac.uk/research/researchwithus/fellowships/nottingham/index.aspx). Naoto Hori is supported by [JST PRESTO](https://www.jst.go.jp/kisoken/presto/en/research_area/ongoing/area2020-1.html).
+We are grateful for support from [Nottingham Research Fellowship](https://www.nottingham.ac.uk/research/researchwithus/fellowships/nottingham/index.aspx). Naoto Hori is supported by [Japan Science and Technology Agency PRESTO program](https://www.jst.go.jp/kisoken/presto/en/research_area/ongoing/area2020-1.html).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MASTER_UoN_full_colour_logo_RGB.png" style="width: 210px">
