@@ -1,4 +1,4 @@
-# Naoto Hori's Website
+# Hori Lab Website
 
 This repository is for the website of our academic research group.
 
