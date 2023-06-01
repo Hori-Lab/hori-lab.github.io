@@ -10,7 +10,7 @@ permalink: /naotohori/
 
 <br/>
 &ensp;&ensp;&ensp;&ensp;**Assistant Professor**  
-&ensp;&ensp;&ensp;&ensp;School of Pharmacy, Universiky of Nottingham  
+&ensp;&ensp;&ensp;&ensp;School of Pharmacy, University of Nottingham  
 &ensp;&ensp;&ensp;&ensp;Boots Science Building, Room B27  
 &ensp;&ensp;&ensp;&ensp;University Park, Nottingham, NG7 2RD United Kingdom  
 
