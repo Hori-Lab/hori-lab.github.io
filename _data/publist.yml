@@ -8,9 +8,10 @@
 - title: "Odd-even disparity in the population of slipped hairpins in RNA repeat sequences with implications for phase separation"
   authors: H Maity, HT Nguyen, N Hori, D Thirumalai
   link:
-    url: https://doi.org/10.1101/2023.01.09.523227
-    display: "bioRxiv (2023) 2023.01.09.523227"
-  highlight: 0
+    url: https://doi.org/10.1073/pnas.2301409120
+    display: "Proc. Natl. Acad. Sci. U.S.A. (2023) 120(24) e2301409120"
+  highlight: 1
+  news2: Preprint [bioRxiv:2023.01.09.523227](https://doi.org/10.1101/2023.01.09.523227)
 
 - title: "Condensates in RNA Repeat Sequences are Heterogeneously Organized and Exhibit Reptation Dynamics"
   image: 21LLPS.png
