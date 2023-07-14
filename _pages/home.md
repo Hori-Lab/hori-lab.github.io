@@ -24,6 +24,9 @@ We are a Computational Biophysics group at the [School of Pharmacy](https://www.
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group202307_1400x700.jpeg" alt="Slide 1" />
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/VPK.png" alt="Slide 1" />
         </div>
         <div class="item">
