@@ -32,6 +32,9 @@ We are a Computational Biophysics group at the [School of Pharmacy](https://www.
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/16SCD.png" alt="Slide 2" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AzoKinetics.png" alt="Slide 3" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
