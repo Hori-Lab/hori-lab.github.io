@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div>
+    <h2>News</h2>
+
+    {% for article in site.data.news %}
+        {{ article.date }}
+        <p>{{ article.headline }}</p>
+        <p>{{ article.youtube }}</p>
+    {% endfor %}
+
+</div>

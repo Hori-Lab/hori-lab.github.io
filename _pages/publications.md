@@ -26,12 +26,19 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
+
+  {% if publi.youtube != nil %}
+  <iframe width="400" height="200" src="{{ publi.youtube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  {% else %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  {% endif %}
+
   <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+
+  <p><em>{{ publi.authors }}</em> <br/>
+  <strong><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></strong> <br/>
+  {{ publi.news2 }}</p>
+  <!-- <p class="text-danger"><strong> {{ publi.news1 }}</strong></p> -->
  </div>
 </div>
 
@@ -63,7 +70,10 @@ permalink: /publications/
   <li>
   {{ publi.title }} <br />
   <em> {{ publi.authors }} </em><br />
-  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a>
+  {% if publi.link2.flag == 1 %}
+  &nbsp;&nbsp;&nbsp;<a href="{{ publi.link2.url }}" target="_blank">{{ publi.link2.display }}</a>
+  {% endif %}
   </li>
 
 {% endfor %}

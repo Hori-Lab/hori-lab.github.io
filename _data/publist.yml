@@ -1,9 +1,17 @@
-- title: "Watching ion-driven folding kinetics of a ribozyme one molecule at a time"
+- title: "Watching ion-driven kinetics of folding and misfolding caused by energetic and topological frustration one molecule at a time"
   authors: N Hori, D Thirumalai
+  image: 23AzoKinetics.png
+  youtube: https://www.youtube.com/embed/6nnjGqod1o8?si=m1cOSQIlM9ZZPRvQ
+  description: "We show how RNA folding and misfolding are driven by divalent cations. The movie above is an example of the folding ribozyme. Watch a misfolding ribozyme [here on YouTube](https://youtu.be/rlweklDRcrs)."
   link:
-    url: https://doi.org/10.1101/2023.02.06.527349
-    display: "bioRxiv (2023) 2023.02.06.527349"
-  highlight: 0
+    url: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad755/7283895#419061729
+    _url: https://doi.org/10.1093/nar/gkad755
+    display: "Nucleic Acids Res. (2023) 10.1093/nar/gkad755"
+  link2:
+    flag: 0
+    url: https://doi.org/2023.02.06.527349
+    display: bioRxiv:2023.02.06.527349
+  highlight: 1
 
 - title: "Odd-even disparity in the population of slipped hairpins in RNA repeat sequences with implications for phase separation"
   authors: H Maity, HT Nguyen, N Hori, D Thirumalai
@@ -11,17 +19,24 @@
     url: https://doi.org/10.1073/pnas.2301409120
     display: "Proc. Natl. Acad. Sci. U.S.A. (2023) 120(24) e2301409120"
   highlight: 0
-  news2: Preprint [bioRxiv:2023.01.09.523227](https://doi.org/10.1101/2023.01.09.523227)
+  link2:
+    flag: 1
+    url: https://doi.org/10.1101/2023.01.09.523227)
+    display: bioRxiv:2023.01.09.523227
 
 - title: "Condensates in RNA Repeat Sequences are Heterogeneously Organized and Exhibit Reptation Dynamics"
   image: 21LLPS.png
-  description: "we simulated phase separation of repeat RNA sequences. This highlight the mechanism of liquid-liquid phase separation"
+  description: "We simulated phase separation of repeat RNA sequences. This highlight the mechanism of liquid-liquid phase separation"
   authors: HT Nguyen, N Hori, D Thirumalai
   link:
     url: https://doi.org/10.1038/s41557-022-00934-z
     display: "Nat. Chem. (2022) 14, 775–785"
   highlight: 1
   news2: Preprint [bioRxiv:2021.02.20.432119](https://doi.org/10.1101/2021.02.20.432119)
+  link2:
+    flag: 1
+    url: https://doi.org/10.1101/2021.02.20.432119)
+    display: bioRxiv:2021.02.20.432119
 
 - title: "Shape changes and cooperativity in the folding of the central domain of the 16S ribosomal RNA"
   image: 21Ribosome16SCD.png
@@ -71,7 +86,6 @@
     display: "J. Phys. Chem. B (2018) 122(49) 11279"
   highlight: 1
   news2: Preprint [arXiv](https://arxiv.org/abs/1807.09393)
-#<iframe width="560" height="315" src="https://www.youtube.com/embed/05b-goEPFdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - title: "Sequence-dependent Three Interaction Site (TIS) Model for Single and Double-stranded DNA"
   authors: D Chakraborty, N Hori, D Thirumalai
