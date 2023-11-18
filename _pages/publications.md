@@ -64,7 +64,7 @@ permalink: /publications/
 
 ## Full list of publications
 
-<ol>
+<ol reversed>
 {% for publi in site.data.publist %}
 
   <li>
