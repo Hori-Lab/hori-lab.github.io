@@ -1,3 +1,13 @@
+- title: Salt-dependent self-association of trinucleotide repeat RNA sequences
+  authors: H Maity, HT Nguyen, N Hori, D Thirumalai
+  image: .png
+  description: ""
+  link:
+    url: https://doi.org/10.1101/2023.11.26.568751
+    display: "BioRxiv (2023)"
+  highlight: 0
+  news2: ""
+
 - title: Competition between stacking and divalent cation mediated electrostatic interactions determines the conformations of short DNA sequence
   authors: B Mondal, D Chakraborty, N Hori, HT Nguyen, D Thirumalai
   image: .png
