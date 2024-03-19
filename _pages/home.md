@@ -52,7 +52,7 @@ Our research efforts focus on the molecular structure and dynamics of biological
 <br>
 
 
-We are grateful for support from [Nottingham Research Fellowship](https://www.nottingham.ac.uk/research/researchwithus/fellowships/nottingham/index.aspx). Naoto Hori is supported by [Japan Science and Technology Agency PRESTO program](https://www.jst.go.jp/kisoken/presto/en/research_area/ongoing/area2020-1.html).
+We are grateful for support from [Nottingham Research Fellowship](https://www.nottingham.ac.uk/research/researchwithus/fellowships/nottingham/index.aspx). Naoto Hori is supported by [Japan Science and Technology Agency PRESTO program](https://www.jst.go.jp/kisoken/presto/en/project/1112098/1112098_2022.html).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MASTER_UoN_full_colour_logo_RGB.png" style="width: 210px">

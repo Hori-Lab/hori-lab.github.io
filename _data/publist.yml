@@ -8,13 +8,16 @@
   highlight: 0
   news2: ""
 
-- title: Competition between stacking and divalent cation mediated electrostatic interactions determines the conformations of short DNA sequence
+- title: Competition between stacking and divalent cation-mediated electrostatic interactions determines the conformations of short DNA sequences
   authors: B Mondal, D Chakraborty, N Hori, HT Nguyen, D Thirumalai
-  image: .png
-  description: ""
   link:
+    flag: 0
+    url: https://doi.org/10.1021/acs.jctc.3c01193
+    display: "J. Chem. Theory Comput. (2024)"
+  link2:
+    flag: 1
     url: https://doi.org/10.1101/2023.10.05.561104
-    display: "BioRxiv (2023)"
+    display: BioRxiv:2023.10.05.561104
   highlight: 0
   news2: ""
 
