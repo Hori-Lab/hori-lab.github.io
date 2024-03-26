@@ -13,7 +13,7 @@
   link:
     flag: 0
     url: https://doi.org/10.1021/acs.jctc.3c01193
-    display: "J. Chem. Theory Comput. (2024)"
+    display: "J. Chem. Theory Comput. (2024) 10.1021/acs.jctc.3c01193"
   link2:
     flag: 1
     url: https://doi.org/10.1101/2023.10.05.561104
@@ -27,8 +27,7 @@
   youtube: https://www.youtube.com/embed/6nnjGqod1o8?si=m1cOSQIlM9ZZPRvQ
   description: "We show how RNA folding and misfolding are driven by divalent cations. The movie above is an example of the folding ribozyme. Watch a misfolding ribozyme [here on YouTube](https://youtu.be/rlweklDRcrs)."
   link:
-    url: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad755/7283895
-    _url: https://doi.org/10.1093/nar/gkad755
+    url: https://doi.org/10.1093/nar/gkad755
     display: "Nucleic Acids Res. (2023) 10.1093/nar/gkad755"
   link2:
     flag: 0
