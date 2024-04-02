@@ -3,8 +3,12 @@
   image: .png
   description: ""
   link:
+    url: https://doi.org/10.1021/acs.jpclett.3c03553
+    display: "J. Phys. Chem. Lett. (2024) 15: 3820 10.1021/acs.jpclett.3c03553"
+  link2:
+    flag: 1
     url: https://doi.org/10.1101/2023.11.26.568751
-    display: "BioRxiv (2023)"
+    display: bioRxiv:2023.11.26.568751
   highlight: 0
   news2: ""
 
@@ -17,7 +21,7 @@
   link2:
     flag: 1
     url: https://doi.org/10.1101/2023.10.05.561104
-    display: BioRxiv:2023.10.05.561104
+    display: bioRxiv:2023.10.05.561104
   highlight: 0
   news2: ""
 
@@ -28,7 +32,7 @@
   description: "We show how RNA folding and misfolding are driven by divalent cations. The movie above is an example of the folding ribozyme. Watch a misfolding ribozyme [here on YouTube](https://youtu.be/rlweklDRcrs)."
   link:
     url: https://doi.org/10.1093/nar/gkad755
-    display: "Nucleic Acids Res. (2023) 10.1093/nar/gkad755"
+    display: "Nucleic Acids Res. (2023) 51(19) 10737 10.1093/nar/gkad755"
   link2:
     flag: 0
     url: https://doi.org/2023.02.06.527349
