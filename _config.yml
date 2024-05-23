@@ -10,11 +10,9 @@ title: Computational Biophysics
 email: hori.naoto@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Computational Biophysics group at the University of Nottingham.
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We are developing cutting-edge computational approaches to study RNA molecules, both to understand basic biology and to make better RNA therapeutics.
 baseurl: ""
-url: ""
+url: "https://hori-lab.github.io/"
 
 include:
   - .htaccess

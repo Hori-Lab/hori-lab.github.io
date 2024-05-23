@@ -5,12 +5,11 @@
   email: naoto.hori @ nottingham.ac.uk
   number_scholar: 1
   scholar_link: https://scholar.google.com/citations?user=Je_SISQAAAAJ
-  number_educ: 5
-  education1: BSc in Chemistry, Kobe University 2006
-  education2: MSc in Chemistry, Kobe University 2008
-  education3: PhD in Biophysics, Kyoto University 2013
-  education4: Postdoc at Univ. of Maryland (2014-15) and Univ. of Texas Austin (2016-19)
-  education5: <a href="https://www.nottingham.ac.uk/research/researchwithus/fellowships/nottingham/index.aspx" target="_blank">Nottingham Research Fellow</a> 2020-23
+  number_educ: 4
+  education1: BSc & MSc in Chemistry, Kobe Univ. 2008
+  education2: PhD in Biophysics, Kyoto Univ. 2013
+  education3: Postdoc at Univ. of Maryland (2014-15) and Univ. of Texas Austin (2016-19)
+  education4: <a href="https://www.nottingham.ac.uk/research/researchwithus/fellowships/nottingham/index.aspx" target="_blank">Nottingham Research Fellow</a> 2020-23
 
 - name: James A. Robins
   photo: JamesRobins.jpg
@@ -55,6 +54,15 @@
   education1: BSc in Chemistry (2+2), University of Nottingham Ningbo China 2021-23
   education2: BSc in Chemistry (2+2), University of Nottingham 2023-
 
+- name: Nga Man Cheng
+  number_scholar: 0
+  photo: MandyCheng.jpg
+  info: PhD studnet (May 2024 -)
+  number_email: 1
+  email: nga.cheng @ nottingham.ac.uk
+  number_educ: 2
+  education1: MSci in Pharmaceutical Sciences, University of Nottingham 2023
+  education2: <a href="https://www.transpharmtech-dtc.ac.uk/student-profiles/2023-cohort.aspx" target="_blank">CDT in Transformative Pharmaceutical Technologies</a>, University of Nottingham 2023-
 
 
 #- name: "This could be you!"
