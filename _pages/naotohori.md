@@ -54,9 +54,7 @@ permalink: /naotohori/
 
 #### Service
  + Journal Reviewer  
-Physical Chemistry Chemical Physics, Nature Communications, Biophysical Journal, Journal of Physical Chemistry B,  
-RNA, Scientific Reports, Journal of Molecular Modeling, Computational and Structural Biotechnology Journal,  
-Journal of Chemical Theory and Computation, Heliyon, Frontiers in Molecular Biosciences
+Biophysical Chemistry, Biophysical Journal, ChemBioChem, Computational and Structural Biotechnology Journal, FEBS Open Bio, Frontiers in Molecular Biosciences, Heliyon, Journal of Chemical Theory and Computation, Journal of Molecular Modeling, Nature Communications, Physical Chemistry Chemical Physics, PNAS Nexus, RNA, Scientific Reports, The Journal of Chemical Physics, The Journal of Physical Chemistry
  + Topic editor in Frontiers in Molecular Biosciences
  + Biophysics Summer School (Kyoto, Japan 2011) organiser
  + The 9th Annual CCPBioSim Conference (Leeds, UK 2023) organiser
