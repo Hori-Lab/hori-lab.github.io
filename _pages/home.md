@@ -36,6 +36,9 @@ We are a Computational Biophysics group at the [School of Pharmacy](https://www.
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/16SCD.png" alt="16SCD" />
         </div>
         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group202410_1400x700.jpeg" alt="Group202406" />
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AzoKinetics.png" alt="AzoKinetics" />
         </div>
     </div>
