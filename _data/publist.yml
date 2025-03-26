@@ -3,7 +3,7 @@
   description: ""
   link:
     url: https://doi.org/10.1039/D4PY01165A
-    display: "Polym. Chem. (2025) 10.1039/D4PY01165A"
+    display: "Polym. Chem. (2025) 16 538 10.1039/D4PY01165A"
   highlight: 0
   news2: ""
 
@@ -60,7 +60,7 @@
 
 - title: "Condensates in RNA Repeat Sequences are Heterogeneously Organized and Exhibit Reptation Dynamics"
   image: 21LLPS.png
-  description: "We simulated phase separation of repeat RNA sequences. This highlight the mechanism of liquid-liquid phase separation"
+  description: "We simulated phase separation of repeat RNA sequences. This highlight the mechanism of liquid-liquid phase separation driven by RNA-RNA interactions."
   authors: HT Nguyen, N Hori, D Thirumalai
   link:
     url: https://doi.org/10.1038/s41557-022-00934-z
