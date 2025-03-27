@@ -55,7 +55,7 @@
   highlight: 0
   link2:
     flag: 1
-    url: https://doi.org/10.1101/2023.01.09.523227)
+    url: https://doi.org/10.1101/2023.01.09.523227
     display: bioRxiv:2023.01.09.523227
 
 - title: "Condensates in RNA Repeat Sequences are Heterogeneously Organized and Exhibit Reptation Dynamics"
@@ -69,7 +69,7 @@
   news2: Preprint [bioRxiv:2021.02.20.432119](https://doi.org/10.1101/2021.02.20.432119)
   link2:
     flag: 1
-    url: https://doi.org/10.1101/2021.02.20.432119)
+    url: https://doi.org/10.1101/2021.02.20.432119
     display: bioRxiv:2021.02.20.432119
 
 - title: "Shape changes and cooperativity in the folding of the central domain of the 16S ribosomal RNA"
