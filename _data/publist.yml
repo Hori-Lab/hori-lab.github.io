@@ -2,12 +2,8 @@
   authors: D. Thirumalai, N. Hori, H.T. Nguyen
   description: ""
   link:
-    url: https://doi.org/10.48550/arXiv.2501.00194
-    display: "Curr. Opin. Struct. Biol. (in press)"
-  link2:
-    flag: 1
-    url: https://doi.org/10.48550/arXiv.2501.00194
-    display: arXiv:2501.00194
+    url: https://doi.org/10.1016/j.sbi.2025.103107
+    display: "Curr. Opin. Struct. Biol. (2025) 93 103107 10.1016/j.sbi.2025.103107"
   highlight: 0
   news2: ""
 
@@ -16,7 +12,7 @@
   description: ""
   link:
     url: https://doi.org/10.1016/j.omtn.2025.102602
-    display: "Mol. Ther. Nucleic Acids (2025)"
+    display: "Mol. Ther. Nucleic Acids (2025) 36 102602 10.1016/j.omtn.2025.102602"
   highlight: 0
   news2: ""
 
