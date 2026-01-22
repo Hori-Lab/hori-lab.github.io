@@ -11,7 +11,7 @@ permalink: /naotohori/
 <br/>
 &ensp;&ensp;&ensp;&ensp;Assistant Professor  
 &ensp;&ensp;&ensp;&ensp;School of Pharmacy, University of Nottingham  
-&ensp;&ensp;&ensp;&ensp;Boots Science Building, Room B27  
+&ensp;&ensp;&ensp;&ensp;Biodiscovery Institute, BDI-1 Building, Room A08  
 &ensp;&ensp;&ensp;&ensp;University Park, Nottingham, NG7 2RD, United Kingdom  
 
 &ensp;&ensp;&ensp;&ensp;Email: naoto.hori@ nottingham.ac.uk  
@@ -23,8 +23,9 @@ permalink: /naotohori/
 #### Research Interests
  + RNA folding, structures and functions
  + Assembly of RNA-protein complexes
+ + Biomolecular condensates
  + Translation system in the cell
- + Computational methods and algorithms to study biomolecules
+ + Machine learning and computational methods to study biomolecules
 
 #### Education
 
