@@ -25,50 +25,19 @@ permalink: /team/
 
   <h4>{{ member.name }} </h4>
 
-  {% if member.number_email == 1 %}
-  {% if member.number_scholar == 1 %}
   {{ member.info }}
-  <br>email: {{ member.email }}
-  <br><a href="{{ member.scholar_link }}" target="_blank">[Google Scholar]</a>
-  {% else %}
-  {{ member.info }}
-  <br>email: {{ member.email }}
-  {% endif %}
-  {% else %}
-  {{ member.info }}
+  {% if member.email %}<br>email: {{ member.email }}{% endif %}
+  {% if member.googlescholar %}<br><a href="{{ member.googlescholar }}" target="_blank">[Google Scholar]</a>{% if member.orcid %}&ensp;<a href="https://orcid.org/{{ member.orcid }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/orcid-logo.webp" alt="ORCID" height="16" style="box-shadow: none; border-radius: 0; margin: 0; vertical-align: middle;"></a>{% endif %}
+  {% elsif member.orcid %}<br><a href="https://orcid.org/{{ member.orcid }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/orcid-logo.webp" alt="ORCID" height="16" style="box-shadow: none; border-radius: 0; margin: 0; vertical-align: middle;"></a>
   {% endif %}
 
   <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
+  {% if member.bullet1 %}<li> {{ member.bullet1 }} </li>{% endif %}
+  {% if member.bullet2 %}<li> {{ member.bullet2 }} </li>{% endif %}
+  {% if member.bullet3 %}<li> {{ member.bullet3 }} </li>{% endif %}
+  {% if member.bullet4 %}<li> {{ member.bullet4 }} </li>{% endif %}
+  {% if member.bullet5 %}<li> {{ member.bullet5 }} </li>{% endif %}
 
   </ul>
 </div>
@@ -103,50 +72,19 @@ permalink: /team/
 
   <h4>{{ member.name }} </h4>
 
-  {% if member.number_email == 1 %}
-  {% if member.number_scholar == 1 %}
   {{ member.info }}
-  <br>email: {{ member.email }}
-  <br><a href="{{ member.scholar_link }}" target="_blank">[Google Scholar]</a>
-  {% else %}
-  {{ member.info }}
-  <br>email: {{ member.email }}
-  {% endif %}
-  {% else %}
-  {{ member.info }}
+  {% if member.email %}<br>email: {{ member.email }}{% endif %}
+  {% if member.googlescholar %}<br><a href="{{ member.googlescholar }}" target="_blank">[Google Scholar]</a>{% if member.orcid %}&ensp;<a href="https://orcid.org/{{ member.orcid }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/orcid-logo.webp" alt="ORCID" height="16" style="box-shadow: none; border-radius: 0; margin: 0; vertical-align: middle;"></a>{% endif %}
+  {% elsif member.orcid %}<br><a href="https://orcid.org/{{ member.orcid }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/orcid-logo.webp" alt="ORCID" height="16" style="box-shadow: none; border-radius: 0; margin: 0; vertical-align: middle;"></a>
   {% endif %}
 
   <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
+  {% if member.bullet1 %}<li> {{ member.bullet1 }} </li>{% endif %}
+  {% if member.bullet2 %}<li> {{ member.bullet2 }} </li>{% endif %}
+  {% if member.bullet3 %}<li> {{ member.bullet3 }} </li>{% endif %}
+  {% if member.bullet4 %}<li> {{ member.bullet4 }} </li>{% endif %}
+  {% if member.bullet5 %}<li> {{ member.bullet5 }} </li>{% endif %}
 
   </ul>
 </div>

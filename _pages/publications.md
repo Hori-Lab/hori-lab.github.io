@@ -69,7 +69,7 @@ permalink: /publications/
 
   <li>
   {{ publi.title }} <br />
-  <em> {{ publi.authors }} </em><br />
+  {{ publi.authors }} <br />
   <a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a>
   {% if publi.link2.flag == 1 %}
   &nbsp;&nbsp;&nbsp;<a href="{{ publi.link2.url }}" target="_blank">{{ publi.link2.display }}</a>
