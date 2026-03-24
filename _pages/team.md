@@ -26,9 +26,26 @@ permalink: /team/
   <h4>{{ member.name }} </h4>
 
   {{ member.info }}
-  {% if member.email %}<br>email: {{ member.email }}{% endif %}
-  {% if member.googlescholar %}<br><a href="{{ member.googlescholar }}" target="_blank">[Google Scholar]</a>{% if member.orcid %}&ensp;<a href="https://orcid.org/{{ member.orcid }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/orcid-logo.webp" alt="ORCID" height="16" style="box-shadow: none; border-radius: 0; margin: 0; vertical-align: middle;"></a>{% endif %}
-  {% elsif member.orcid %}<br><a href="https://orcid.org/{{ member.orcid }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/orcid-logo.webp" alt="ORCID" height="16" style="box-shadow: none; border-radius: 0; margin: 0; vertical-align: middle;"></a>
+  {% if member.email %} <br> email: {{ member.email }}{% endif %}
+  {% if member.googlescholar %} <br>
+    <a href="{{ member.googlescholar }}" target="_blank">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Google_Scholar_logo.png" 
+    alt="Google Scholar" height="16" 
+    style="box-shadow: none; border-radius: 0; margin: 0; vertical-align: middle;">
+    </a>
+    {% if member.orcid %} &ensp;
+      <a href="https://orcid.org/{{ member.orcid }}" target="_blank">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/orcid-logo.webp" 
+      alt="ORCID" height="16" 
+      style="box-shadow: none; border-radius: 0; margin: 0; vertical-align: middle;">
+      </a>
+    {% endif %}
+  {% elsif member.orcid %} <br>
+    <a href="https://orcid.org/{{ member.orcid }}" target="_blank">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/orcid-logo.webp" 
+    alt="ORCID" height="16" 
+    style="box-shadow: none; border-radius: 0; margin: 0; vertical-align: middle;">
+    </a>
   {% endif %}
 
   <ul style="overflow: hidden">
@@ -73,9 +90,26 @@ permalink: /team/
   <h4>{{ member.name }} </h4>
 
   {{ member.info }}
-  {% if member.email %}<br>email: {{ member.email }}{% endif %}
-  {% if member.googlescholar %}<br><a href="{{ member.googlescholar }}" target="_blank">[Google Scholar]</a>{% if member.orcid %}&ensp;<a href="https://orcid.org/{{ member.orcid }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/orcid-logo.webp" alt="ORCID" height="16" style="box-shadow: none; border-radius: 0; margin: 0; vertical-align: middle;"></a>{% endif %}
-  {% elsif member.orcid %}<br><a href="https://orcid.org/{{ member.orcid }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/orcid-logo.webp" alt="ORCID" height="16" style="box-shadow: none; border-radius: 0; margin: 0; vertical-align: middle;"></a>
+  {% if member.email %} <br> email: {{ member.email }}{% endif %}
+  {% if member.googlescholar %} <br>
+    <a href="{{ member.googlescholar }}" target="_blank">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Google_Scholar_logo.png" 
+    alt="Google Scholar" height="16" 
+    style="box-shadow: none; border-radius: 0; margin: 0; vertical-align: middle;">
+    </a>
+    {% if member.orcid %} &ensp;
+      <a href="https://orcid.org/{{ member.orcid }}" target="_blank">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/orcid-logo.webp" 
+      alt="ORCID" height="16" 
+      style="box-shadow: none; border-radius: 0; margin: 0; vertical-align: middle;">
+      </a>
+    {% endif %}
+  {% elsif member.orcid %} <br>
+    <a href="https://orcid.org/{{ member.orcid }}" target="_blank">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/orcid-logo.webp" 
+    alt="ORCID" height="16" 
+    style="box-shadow: none; border-radius: 0; margin: 0; vertical-align: middle;">
+    </a>
   {% endif %}
 
   <ul style="overflow: hidden">
