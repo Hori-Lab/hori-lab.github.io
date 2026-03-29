@@ -2,7 +2,7 @@
 title: "Hori Lab - Publications"
 layout: gridlay
 excerpt: "Hori Lab -- Publications."
-sitemap: false
+sitemap: true
 permalink: /publications/
 ---
 

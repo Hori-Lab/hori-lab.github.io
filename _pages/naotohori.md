@@ -2,7 +2,7 @@
 title: "Naoto Hori"
 layout: textlay
 excerpt: "Naoto Hori"
-sitemap: false
+sitemap: true
 permalink: /naotohori/
 ---
 

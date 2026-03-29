@@ -2,7 +2,7 @@
 title: "Hori Lab - Team"
 layout: gridlay
 excerpt: "Hori Lab: Team members"
-sitemap: false
+sitemap: true
 permalink: /team/
 ---
 

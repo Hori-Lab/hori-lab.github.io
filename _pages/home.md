@@ -2,7 +2,7 @@
 title: "Hori Lab - Home"
 layout: homelay
 excerpt: "Hori Lab at University of Nottingham."
-sitemap: false
+sitemap: true
 permalink: /
 ---
 
