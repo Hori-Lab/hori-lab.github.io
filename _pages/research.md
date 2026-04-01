@@ -4,6 +4,7 @@ layout: textlay
 excerpt: "Hori Lab -- Research"
 sitemap: true
 permalink: /research/
+lang: en
 ---
 
 # Research

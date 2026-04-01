@@ -1,0 +1,3 @@
+# Japanese news - add translated entries here.
+# If this file is empty or absent, the Japanese pages will fall back to English news data.
+# Copy entries from ../_data/news.yml and translate the headline field.

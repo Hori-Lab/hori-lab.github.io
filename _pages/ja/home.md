@@ -1,13 +1,13 @@
 ---
-title: "Hori Lab - Home"
+title: "堀研究室 - ホーム"
 layout: homelay
-excerpt: "Hori Lab at University of Nottingham."
+excerpt: "堀研究室 ノッティンガム大学"
 sitemap: true
-permalink: /
-lang: en
+permalink: /ja/
+lang: ja
 ---
 
-We are a Computational Biophysics group at the [School of Pharmacy](https://www.nottingham.ac.uk/pharmacy), University of Nottingham. 
+私たちはノッティンガム大学[薬学部](https://www.nottingham.ac.uk/pharmacy)の計算生物物理学研究グループです。
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -54,12 +54,12 @@ We are a Computational Biophysics group at the [School of Pharmacy](https://www.
 </div>
 
 
-Our research efforts focus on the molecular structure and dynamics of biological macromolecules, with a particular emphasis on RNA. We seek to understand how these molecules, which inherently obey the laws of physics and chemistry, assemble and interact each other to produce intriguing biological phenomena. We also aim to use our expertise to develop better RNA therapeutics. To achieve this, we develop and apply theoretical and computational biophysical approaches in collaboration with experimentalists.
+本研究室では、計算生物物理学的手法を用いて、RNAを中心とした生体分子の構造、ダイナミクス、および相互作用の理解に取り組んでいます。分子がどのように組み立てられ、機能を発現するのかを明らかにするとともに、その知見をRNA治療薬の設計へと応用しています。理論・計算と実験の連携を通じて、基礎と応用の両面から研究を推進しています。
 <br>
 <br>
 
 
-We are grateful for support from [Nottingham Research Fellowship](https://www.nottingham.ac.uk/research/researchwithus/fellowships/nottingham/index.aspx). Naoto Hori is supported by [Japan Science and Technology Agency PRESTO program](https://www.jst.go.jp/kisoken/presto/en/project/1112098/1112098_2022.html).
+[Nottingham Research Fellowship](https://www.nottingham.ac.uk/research/researchwithus/fellowships/nottingham/index.aspx)および[科学技術振興機構さきがけ](https://www.jst.go.jp/kisoken/presto/project/1112098/1112098_2022.html)の支援に感謝します。
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MASTER_UoN_full_colour_logo_RGB.png" style="width: 210px">

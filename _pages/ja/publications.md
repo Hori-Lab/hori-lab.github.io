@@ -1,18 +1,16 @@
 ---
-title: "Hori Lab - Publications"
+title: "堀研究室 - 論文"
 layout: gridlay
-excerpt: "Hori Lab -- Publications."
+excerpt: "堀研究室 -- 論文"
 sitemap: true
-permalink: /publications/
-lang: en
+permalink: /ja/publications/
+lang: ja
 ---
 
 
-# Publications
+## 主要論文
 
-## Highlights
-
-(For a full list of publications see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=Je_SISQAAAAJ))
+論文の全リストは[下記](#論文一覧)または[Google Scholar](https://scholar.google.com/citations?user=Je_SISQAAAAJ)をご覧ください。
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -39,7 +37,6 @@ lang: en
   <p><em>{{ publi.authors }}</em> <br/>
   <strong><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></strong> <br/>
   {{ publi.news2 }}</p>
-  <!-- <p class="text-danger"><strong> {{ publi.news1 }}</strong></p> -->
  </div>
 </div>
 
@@ -59,11 +56,7 @@ lang: en
 
 <p> &nbsp; </p>
 
-<!--
-## Patents
--->
-
-## Full list of publications
+## 論文一覧
 
 <ol reversed>
 {% for publi in site.data.publist %}

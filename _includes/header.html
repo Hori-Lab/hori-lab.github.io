@@ -1,3 +1,11 @@
+{% assign lang = page.lang | default: "en" %}
+{% assign t = site.data.translations[lang] %}
+{% if lang == "en" %}
+  {% assign lang_prefix = "" %}
+{% else %}
+  {% assign lang_prefix = "/ja" %}
+{% endif %}
+
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container-fluid">
 	<div class="navbar-header">
@@ -7,19 +15,26 @@
 		<span class="icon-bar"></span>
 		<span class="icon-bar"></span>
 	  </button>
-	
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">Computational Biophysics Lab @ Nottingham</a>
+
+    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}{{ lang_prefix }}/">{{ t.site_title }}</a>
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
-        <li><a href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/naotohori">Naoto</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/allnews">News</a></li>
-        <!--<li><a href="{{ site.url }}{{ site.baseurl }}/vacancies">Vacancies</a></li>-->
-        <!--<li><a href="{{ site.url }}{{ site.baseurl }}/photos">Photos</a></li>-->
+		<li><a href="{{ site.url }}{{ site.baseurl }}{{ lang_prefix }}/">{{ t.nav.home }}</a></li>
+		<li><a href="{{ site.url }}{{ site.baseurl }}{{ lang_prefix }}/team">{{ t.nav.team }}</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}{{ lang_prefix }}/research">{{ t.nav.research }}</a></li>
+		<li><a href="{{ site.url }}{{ site.baseurl }}{{ lang_prefix }}/publications">{{ t.nav.publications }}</a></li>
+		<li><a href="{{ site.url }}{{ site.baseurl }}{{ lang_prefix }}/naotohori">{{ t.nav.naoto }}</a></li>
+		<li><a href="{{ site.url }}{{ site.baseurl }}{{ lang_prefix }}/allnews">{{ t.nav.news }}</a></li>
+        <!--<li><a href="{{ site.url }}{{ site.baseurl }}{{ lang_prefix }}/vacancies">Vacancies</a></li>-->
+        <!--<li><a href="{{ site.url }}{{ site.baseurl }}{{ lang_prefix }}/photos">{{ t.nav.photos }}</a></li>-->
+		<li class="lang-switcher">
+		  {% if lang == "en" %}
+		    <a href="{{ site.baseurl }}/ja{{ page.permalink | default: '/' }}">日本語</a>
+		  {% else %}
+		    <a href="{{ site.baseurl }}{{ page.permalink | replace_first: '/ja', '' | default: '/' }}">EN</a>
+		  {% endif %}
+		</li>
 	  </ul>
 	</div>
   </div>

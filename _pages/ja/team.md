@@ -1,19 +1,24 @@
 ---
-title: "Hori Lab - Team"
+title: "堀研究室 - メンバー"
 layout: gridlay
-excerpt: "Hori Lab: Team members"
+excerpt: "堀研究室：メンバー"
 sitemap: true
-permalink: /team/
-lang: en
+permalink: /ja/team/
+lang: ja
 ---
 
-<!-- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
+<!-- **博士課程学生、ポスドク、修士課程学生を募集しています** -->
 
 
-# Members
+# メンバー
 
 {% assign number_printed = 0 %}
-{% for member in site.data.members %}
+{% if site.data.ja.members %}
+  {% assign members_data = site.data.ja.members %}
+{% else %}
+  {% assign members_data = site.data.members %}
+{% endif %}
+{% for member in members_data %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -74,10 +79,15 @@ lang: en
 {% endif %}
 
 
-### Former members
+### 過去の在籍メンバー
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni %}
+{% if site.data.ja.alumni %}
+  {% assign alumni_data = site.data.ja.alumni %}
+{% else %}
+  {% assign alumni_data = site.data.alumni %}
+{% endif %}
+{% for member in alumni_data %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -136,4 +146,3 @@ lang: en
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-

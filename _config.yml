@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Computational Biophysics group at the University of Nottingham.
   We are developing cutting-edge computational approaches to study RNA molecules, both to understand basic biology and to make better RNA therapeutics.
 baseurl: ""
-url: "https://hori-lab.github.io/"
+url: "https://hori-lab.github.io"
 
 include:
   - .htaccess

@@ -1,0 +1,53 @@
+en:
+  site_title: "Computational Biophysics Lab @ Nottingham"
+  nav:
+    home: "Home"
+    team: "Team"
+    research: "Research"
+    publications: "Publications"
+    naoto: "Naoto"
+    news: "News"
+    photos: "Photos"
+  home:
+    welcome: "Welcome"
+    see_all_news: "... see all News"
+  team:
+    members: "Members"
+    former_members: "Former members"
+  publications:
+    title: "Publications"
+    recent_highlights: "Highlights"
+    full_list: "Full list of publications"
+    full_list_note: "(For a full list of publications see <a href=\"#full-list-of-publications\">below</a> or go to <a href=\"https://scholar.google.com/citations?user=Je_SISQAAAAJ\">Google Scholar</a>)"
+  news:
+    title: "News"
+  footer:
+    part_of: "We are part of the <a href=\"https://www.nottingham.ac.uk/pharmacy\">School of Pharmacy</a> at the <a href=\"https://www.nottingham.ac.uk\">University of Nottingham</a>."
+    contact: "Contact:"
+
+ja:
+  site_title: "ノッティンガム大学　計算生物物理学研究室"
+  nav:
+    home: "ホーム"
+    team: "メンバー"
+    research: "研究"
+    publications: "論文"
+    naoto: "堀"
+    news: "ニュース"
+    photos: "写真"
+  home:
+    welcome: "Welcome"
+    see_all_news: "... ニュース一覧"
+  team:
+    members: "メンバー"
+    former_members: "卒業生"
+  publications:
+    title: "論文"
+    recent_highlights: "ハイライト"
+    full_list: "論文一覧"
+    full_list_note: "(論文の全リストは<a href=\"#full-list-of-publications\">下記</a>または<a href=\"https://scholar.google.com/citations?user=Je_SISQAAAAJ\">Google Scholar</a>をご覧ください)"
+  news:
+    title: "ニュース"
+  footer:
+    part_of: "<a href=\"https://www.nottingham.ac.uk\">ノッティンガム大学</a> <a href=\"https://www.nottingham.ac.uk/pharmacy\">薬学部</a>"
+    contact: "連絡先："

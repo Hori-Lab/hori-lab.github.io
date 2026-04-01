@@ -4,6 +4,7 @@ layout: textlay
 excerpt: "Naoto Hori"
 sitemap: true
 permalink: /naotohori/
+lang: en
 ---
 
 ### Naoto Hori, PhD

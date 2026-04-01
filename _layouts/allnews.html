@@ -2,10 +2,19 @@
 layout: default
 ---
 
-<div>
-    <h2>News</h2>
+{% assign lang = page.lang | default: "en" %}
+{% assign t = site.data.translations[lang] %}
 
-    {% for article in site.data.news %}
+<div>
+    <h2>{{ t.news.title }}</h2>
+
+    {% if lang == "ja" and site.data.ja.news %}
+      {% assign news_data = site.data.ja.news %}
+    {% else %}
+      {% assign news_data = site.data.news %}
+    {% endif %}
+
+    {% for article in news_data %}
         {{ article.date }}
         <p>{{ article.headline }}</p>
         <p>{{ article.youtube }}</p>
