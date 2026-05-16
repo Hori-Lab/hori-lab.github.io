@@ -56,7 +56,7 @@ lang: en
 
 #### Service
  + Journal Reviewer  
-Biophysical Chemistry, Biophysical Journal, ChemBioChem, Computational and Structural Biotechnology Journal, FEBS Open Bio, Frontiers in Molecular Biosciences, Heliyon, Journal of Chemical Theory and Computation, Journal of Molecular Modeling, Nature Communications, Physical Chemistry Chemical Physics, PNAS Nexus, RNA, Scientific Reports, The Journal of Chemical Physics, The Journal of Physical Chemistry
+ACS Infectious Diseases, Biochemistry, Biophysical Chemistry, Biophysical Journal, Chem & Bio Engineering, ChemBioChem, Communications Physics, Computational and Structural Biotechnology Journal, Current Opinion in Structural Biology, FEBS Open Bio, Frontiers in Molecular Biosciences, Heliyon, Journal of Chemical Theory and Computation, Journal of Chemical Physics, Journal of Materials Chemistry B, Journal of Molecular Modeling, Journal of Physical Chemistry B, Journal of Physical Chemistry Letters, Nature Communications, Nucleic Acids Research, Physical Chemistry Chemical Physics, PLOS Computational Biology, PNAS Nexus, RNA, Scientific Reports
  + Topic editor in Frontiers in Molecular Biosciences
  + Biophysics Summer School (Kyoto, Japan 2011) organiser
  + The 9th Annual CCPBioSim Conference (Leeds, UK 2023) organiser

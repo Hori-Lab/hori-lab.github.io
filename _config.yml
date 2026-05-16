@@ -49,6 +49,8 @@ exclude:
   - README.md
   - vendor/
   - CLAUDE.md
+  - preview.sh
+  - setup.sh
 
 plugins:
   - jekyll-sitemap
