@@ -54,7 +54,7 @@ lang: ja
     </a>
   {% endif %}
 
-  <ul style="overflow: hidden">
+  <ul style="overflow: hidden; padding-left: 20px">
 
   {% if member.bullet1 %}<li> {{ member.bullet1 }} </li>{% endif %}
   {% if member.bullet2 %}<li> {{ member.bullet2 }} </li>{% endif %}
@@ -123,7 +123,7 @@ lang: ja
     </a>
   {% endif %}
 
-  <ul style="overflow: hidden">
+  <ul style="overflow: hidden; padding-left: 20px">
 
   {% if member.bullet1 %}<li> {{ member.bullet1 }} </li>{% endif %}
   {% if member.bullet2 %}<li> {{ member.bullet2 }} </li>{% endif %}

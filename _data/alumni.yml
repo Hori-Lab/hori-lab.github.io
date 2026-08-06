@@ -1,23 +1,21 @@
 - name: James A. Robins
   photo: JamesRobins.jpg
-  info: PhD student (Feb 2022 -)
+  info: PhD student (Feb 2022 - Oct 2025)
   email: james.robins @ nottingham.ac.uk
   orcid: 0009-0004-7227-0701
-  bullet1: BSc in Biomedical Science, Sheffield Hallam University 2021
-  bullet2: Research Assistant, University of Sheffield, Oncology and Metabolism 2019-20
+  bullet1: BSc in Biomedical Science, Sheffield Hallam Univ. 2021
+  bullet2: Research Assistant, Univ. of Sheffield 2019-20
+  bullet3: PhD in Pharmacy, Univ. of Nottingham 2025
+  bullet4: "Current Position: Industry"
 
 - name: Jiaolong Bao
   photo: JiaolongBao.jpg
   info: BSc student (Oct 2023 - May 2025)
-  bullet1: BSc in Chemistry (2+2), University of Nottingham Ningbo China 2021-23
-  bullet2: BSc in Chemistry (2+2), University of Nottingham 2023-2025
+  bullet1: BSc in Chemistry (2+2), Univ. of Nottingham Ningbo China 2021-23
+  bullet2: BSc in Chemistry (2+2), Univ. of Nottingham 2023-2025
 
 - name: Jiahao ZHANG
   photo: JiahaoZhang.jpg
   info: BSc student (Oct 2023 - Jan 2024)
-  bullet1: BSc in Chemistry (2+2), University of Nottingham Ningbo China 2021-23
-  bullet2: BSc in Chemistry (2+2), University of Nottingham 2023-2025
-
-#- name: "This could be you!"
-#  photo: rock.jpg
-#  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  bullet1: BSc in Chemistry (2+2), Univ. of Nottingham Ningbo China 2021-23
+  bullet2: BSc in Chemistry (2+2), Univ. of Nottingham 2023-2025
