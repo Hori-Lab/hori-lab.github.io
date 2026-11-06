@@ -51,7 +51,7 @@ lang: ja
 
 #### 学術活動
  + 学術誌査読  
-Biophysical Chemistry, Biophysical Journal, ChemBioChem, Computational and Structural Biotechnology Journal, FEBS Open Bio, Frontiers in Molecular Biosciences, Heliyon, Journal of Chemical Theory and Computation, Journal of Molecular Modeling, Nature Communications, Physical Chemistry Chemical Physics, PNAS Nexus, RNA, Scientific Reports, The Journal of Chemical Physics, The Journal of Physical Chemistry
+ACS Infectious Diseases, Biochemistry, Biophysical Chemistry, Biophysical Journal, Chem & Bio Engineering, ChemBioChem, Communications Physics, Computational and Structural Biotechnology Journal, Current Opinion in Structural Biology, FEBS Open Bio, Frontiers in Molecular Biosciences, Heliyon, Journal of Biochemistry, Journal of Chemical Theory and Computation, Journal of Chemical Physics, Journal of Materials Chemistry B, Journal of Molecular Modeling, Journal of Physical Chemistry B, Journal of Physical Chemistry Letters, Nature Communications, Nucleic Acids Research, Physical Chemistry Chemical Physics, PLOS Computational Biology, PNAS, PNAS Nexus, RNA, Scientific Reports
  + Frontiers in Molecular Biosciences, Topic Editor
  + 生物物理若手の会 夏の学校（京都、2011）世話人
  + The 9th Annual CCPBioSim Conference（Leeds, UK 2023) Organiser

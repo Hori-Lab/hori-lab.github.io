@@ -32,8 +32,9 @@ lang: ja
   <h4>{{ member.name }} </h4>
 
   {{ member.info }}
-  {% if member.email %} <br> email: {{ member.email }}{% endif %}
-  {% if member.googlescholar %} <br>
+  {%- if member.main %} <br> Main advisor: {{ member.main }}{% endif %}
+  {%- if member.email %} <br> Email: {{ member.email }}{% endif %}
+  {%- if member.googlescholar %} <br>
     <a href="{{ member.googlescholar }}" target="_blank">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Google_Scholar_logo.png" 
     alt="Google Scholar" height="16" 
@@ -101,8 +102,9 @@ lang: ja
   <h4>{{ member.name }} </h4>
 
   {{ member.info }}
-  {% if member.email %} <br> email: {{ member.email }}{% endif %}
-  {% if member.googlescholar %} <br>
+  {%- if member.main %} <br> Main advisor: {{ member.main }}{% endif %}
+  {%- if member.email %} <br> Email: {{ member.email }}{% endif %}
+  {%- if member.googlescholar %} <br>
     <a href="{{ member.googlescholar }}" target="_blank">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Google_Scholar_logo.png" 
     alt="Google Scholar" height="16" 

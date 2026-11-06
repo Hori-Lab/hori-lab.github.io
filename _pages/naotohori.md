@@ -29,7 +29,6 @@ lang: en
  + Machine learning and computational methods to study biomolecules
 
 #### Education
-
  + Ph.D. in Biophysics, Kyoto University (Advisor: [Prof. Shoji Takada](https://theory.biophys.kyoto-u.ac.jp/index-en)), 2010-2013
  + M.Sc. in Chemistry, Kobe University, 2006-2008
  + B.Sc. in Chemistry, Kobe University, 2002-2006
@@ -56,7 +55,7 @@ lang: en
 
 #### Service
  + Journal Reviewer  
-ACS Infectious Diseases, Biochemistry, Biophysical Chemistry, Biophysical Journal, Chem & Bio Engineering, ChemBioChem, Communications Physics, Computational and Structural Biotechnology Journal, Current Opinion in Structural Biology, FEBS Open Bio, Frontiers in Molecular Biosciences, Heliyon, Journal of Chemical Theory and Computation, Journal of Chemical Physics, Journal of Materials Chemistry B, Journal of Molecular Modeling, Journal of Physical Chemistry B, Journal of Physical Chemistry Letters, Nature Communications, Nucleic Acids Research, Physical Chemistry Chemical Physics, PLOS Computational Biology, PNAS Nexus, RNA, Scientific Reports
+ACS Infectious Diseases, Biochemistry, Biophysical Chemistry, Biophysical Journal, Chem & Bio Engineering, ChemBioChem, Communications Physics, Computational and Structural Biotechnology Journal, Current Opinion in Structural Biology, FEBS Open Bio, Frontiers in Molecular Biosciences, Heliyon, Journal of Biochemistry, Journal of Chemical Theory and Computation, Journal of Chemical Physics, Journal of Materials Chemistry B, Journal of Molecular Modeling, Journal of Physical Chemistry B, Journal of Physical Chemistry Letters, Nature Communications, Nucleic Acids Research, Physical Chemistry Chemical Physics, PLOS Computational Biology, PNAS, PNAS Nexus, RNA, Scientific Reports
  + Topic editor in Frontiers in Molecular Biosciences
  + Biophysics Summer School (Kyoto, Japan 2011) organiser
  + The 9th Annual CCPBioSim Conference (Leeds, UK 2023) organiser
